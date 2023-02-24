@@ -1,0 +1,5 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c6fe9f7c-7980-4a81-b678-6303ff5b47c4/AppServices/subscriptions/c6fe9f7c-7980-4a81-b678-6303ff5b47c4/resourceGroups/ATEA_POC/providers/Microsoft.Web/sites/AteaPoc1",
+    "appService.deploySubpath": "build",
+    "appService.showBuildDuringDeployPrompt": false
+}
